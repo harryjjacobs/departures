@@ -9,7 +9,7 @@ A terminal UI for viewing live UK train services using the National Rail Darwin 
 - Live departures between two stations
 - Shows scheduled/expected times, delays, and platform information
 - Filters by Train Operating Company (TOC)
-- Auto-refreshes at configurable intervals
+- Auto-refresh
 - Colour-coded status indicators (on time, late, cancelled)
 
 ## Requirements
@@ -21,7 +21,7 @@ A terminal UI for viewing live UK train services using the National Rail Darwin 
 
 1. Register at [National Rail Enquiries](http://realtime.nationalrail.co.uk/OpenLDBWSRegistration/)
 
-## Installation
+## Building
 
 ```bash
 cargo build --release
