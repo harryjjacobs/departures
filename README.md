@@ -2,6 +2,8 @@
 
 A terminal UI for viewing live UK train services using the National Rail Darwin OpenLDBWS API.
 
+![screenshot](screenshot.png)
+
 ## Features
 
 - Live departures between two stations
